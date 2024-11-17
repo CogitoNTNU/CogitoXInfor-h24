@@ -1,7 +1,18 @@
 # Cogito x Infor Project
 
+<div align="center">
+    <img src="docs/images/infor.png" width="50%" alt="Cogito Image" style="display: block; margin-left: auto; margin-right: auto;">
+</div>
+
+
 ## Overview
 This project is a collaboration between **Cogito**, a student organization, and **Infor**, the third-largest company globally for enterprise systems. The goal was to develop a dynamic pricing model using data science techniques and to integrate insights into EA Smith's pricing strategy for improved profitability.
+
+
+### Prerequisites
+
+- Ensure that Git is installed on your machine. [Download Git](https://git-scm.com/downloads)
+- Python 3.7 or higher is required to run the Jupyter notebooks. [Download Python](https://www.python.org/downloads/)
 
 ---
 # Quickstart Guide for Jupyter Notebooks
@@ -72,11 +83,6 @@ The `FinalNotebookCogito.ipynb` notebook is a key component of the **Price Recom
   Install the required Python libraries using:
   ```bash
   pip install pandas numpy scikit-learn matplotlib seaborn
-## Team
-
-- **Project lead**: Thomas   
-- **Members/Developers**: Herman, Baris, Nikolai, Gard  
-
 
 ---
 
@@ -142,7 +148,46 @@ The team developed a pricing recommendation model using **unsupervised learning*
 
 ---
 
+## Team
+
+- **Project lead**: Thomas   
+- **Members/Developers**: Herman, Baris, Nikolai, Gard  
+
+
+<table align="center">
+  <tr>
+    <td align="center">
+        <a href="https://github.com/thomsoren">
+            <img src="https://github.com/thomsoren.png?size=100" width="100px;" alt="Thomas Sørensen"/><br />
+            <sub><b>Thomas Sørensen</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/BarisBatur">
+            <img src="https://github.com/BarisBatur.png?size=100" width="100px;" alt="Baris Batur"/><br />
+            <sub><b>Baris Batur</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/Gard04r">
+            <img src="https://github.com/Gard04r.png?size=100" width="100px;" alt="Gard"/><br />
+            <sub><b>Gard</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/hermaheg">
+            <img src="https://github.com/hermaheg.png?size=100" width="100px;" alt="Herman"/><br />
+            <sub><b>Herman</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/NikolaiHelleseth">
+            <img src="https://github.com/NikolaiHelleseth.png?size=100" width="100px;" alt="Nikolai Helgås Helleseth"/><br />
+            <sub><b>Nikolai Helgås Helleseth</b></sub>
+        </a>
+    </td>
+  </tr>
+</table>
+
 ## Acknowledgments
 In collaboration with Infor and EA. Smith
-
----
